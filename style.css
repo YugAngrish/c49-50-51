@@ -1,0 +1,28 @@
+
+  h1{
+      color:red;
+      font-family: Arial
+    }  
+  /* *{
+      border:solid
+    }*/
+  img{
+      border:dashed
+    }
+  .header{
+   background-color: #fac349 ;
+   display:flex ;
+   justify-content: space-between   /* space-around , space-evenly */
+} 
+ .footer{
+   display:flex ; 
+   justify-content : flex-end
+ }
+.projects{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    }
+ p{
+    text-align: center
+}
